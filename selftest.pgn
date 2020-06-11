@@ -1,0 +1,10 @@
+[Event "Example"]
+[Site "Linz"]
+[Date "2020-03-10"]
+[Round "1"]
+[White "MyChess"]
+[Black "MyChess"]
+[Result "1/2-1/2"]
+
+1. Nf3 Nf6 2. Nc3 Nc6 3. e4 e5 4. d4 Bd6 5. Bc4 O-O 6. O-O Re8 7. Bg5 Qe7 8. Nd5 Qd8 9. Bxf6 gxf6 10. Qd3 Rb8 11. Rfe1 Ra8 12. Rad1 Rb8 13. Bb3 Ra8 14. Qc4 Rb8 15. Qd3 Ra8 16. Qc4 Rb8 1/2-1/2
+
